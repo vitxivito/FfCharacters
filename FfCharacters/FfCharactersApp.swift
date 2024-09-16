@@ -11,7 +11,7 @@ import SwiftUI
 struct FfCharactersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CharacterListView()
         }
     }
 }
